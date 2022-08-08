@@ -28,3 +28,6 @@
   ## Questions
   For answers to questions, contact me at andrew.seymour1@gmail.com
   Repository managed by DrewOct
+
+  ## Video Walk-through:
+  https://drive.google.com/file/d/1G09EaLMDXdkB0Gf0hV3veFLV0PIweYmQ/view?usp=sharing
